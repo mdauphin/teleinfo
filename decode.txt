@@ -1,0 +1,30 @@
+Analyse d'une trame
+
+OPTARIF HC.. <
+#4 octect, HC = Heure creuse
+
+ISOUSC 30 9
+#Intensité souscrite 30 A
+
+HCHC 021830974 (
+#Heure creuse
+
+HCHP 024296593 ;
+#Heure creuse heure pleine
+
+PTEC HP..  
+#Periode tarifaire en cour
+
+IINST 001 X
+#Intensité instantané
+
+IMAX 025 F
+#Intensite maximal appele
+
+PAPP 00150 '
+# Puissance Apparente (VA)
+
+HHPHC C .
+#Horaire Heures Pleines Heures Creuses 
+
+MOTDETAT 000000 B
